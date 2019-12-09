@@ -1,1 +1,0 @@
-# VERK1---Lokaverkefni
