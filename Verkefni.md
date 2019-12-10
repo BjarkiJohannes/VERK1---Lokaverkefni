@@ -14,4 +14,4 @@ list yfir íhlutir sem var notað.
 -Buzzer
 
 ### myndband
-
+https://streamable.com/s/fj53u/xtxcfa
