@@ -6,12 +6,12 @@ byrjuninn sökkaði mjög mikið og það hélt bara áfram að sökka alla lei�
 ### Skýrsla
 
 list yfir íhlutir sem var notað.
-*ultrasonic sensor
-*Breadboard
-*Arduino Uno bretti
-*servo motor
-*jumper wires(generic)
-*Buzzer
+* ultrasonic sensor
+* Breadboard
+* Arduino Uno bretti
+* servo motor
+* jumper wires(generic)
+* Buzzer
 
 ### myndband
 https://streamable.com/s/fj53u/xtxcfa
